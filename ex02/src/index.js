@@ -14,4 +14,4 @@ function main(){
 }
 
 main();
-module.exportd = main;
+module.exports = main;
