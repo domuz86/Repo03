@@ -5,7 +5,6 @@ function main(){
     console.log('Hello World!')
     
     //Only change code below this line
-
 }
 
 main();
