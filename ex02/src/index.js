@@ -1,7 +1,3 @@
-
-
-
-
 function main(){
 
     //Only change code below this line
