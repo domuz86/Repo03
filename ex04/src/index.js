@@ -5,7 +5,7 @@ function main(){
     var x = 10;
     var y = x;
     
-    //Only change code below this line
+    //Only change code above this line
   
     return[x,y];
 }
